@@ -7,6 +7,7 @@ The collection of useful resources for OS development
 * [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
 * [Bran's Kernel Development](http://www.osdever.net/bkerndev/Docs/title.htm)
 * [Writing your own toy operating system](http://www.independent-software.com/writing-your-own-toy-operating-system/)
+* [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 
 ### Books
 
