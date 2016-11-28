@@ -18,6 +18,7 @@ The collection of useful resources for OS development
 ### Courses
 
 * [Baking Pi - Operating System Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
+* [Computer Operating System Lab - SungKyunKwan](http://csl.skku.edu/SWE3004S16/Schedule)
 
 ### Resources
 
